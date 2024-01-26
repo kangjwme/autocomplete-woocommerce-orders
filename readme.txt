@@ -1,3 +1,5 @@
+=== Fix by nafstore.net ===
+Fix the problem that orders are still auto-completed when there are both virtual and non-virtual products checking out at the same time.
 === Autocomplete WooCommerce Orders ===
 Contributors: quadlayers
 Donate link: https://quadlayers.com/products/woocommerce-autocomplete-orders/
