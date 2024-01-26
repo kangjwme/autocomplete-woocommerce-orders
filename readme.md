@@ -1,6 +1,6 @@
 # Fix by nafstore.net
-Fix the problem that orders are still auto-completed when there are both virtual and non-virtual products checking out at the same time.
-> autocomplete-woocommerce-orders/lib/backend/class-settings.php
+autocomplete-woocommerce-orders/lib/backend/class-settings.php
+> Fix the problem that orders are still auto-completed when there are both virtual and non-virtual products checking out at the same time.
 
 # Autocomplete WooCommerce Orders
 Contributors: quadlayers
