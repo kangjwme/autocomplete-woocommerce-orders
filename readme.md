@@ -5,4 +5,5 @@ autocomplete-woocommerce-orders/lib/backend/class-settings.php
 # Autocomplete WooCommerce Orders
 Contributors: quadlayers
 Donate link: https://quadlayers.com/products/woocommerce-autocomplete-orders/
+
 Current Version: 3.2.0
